@@ -10,6 +10,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="CT切片图像（PNG/DICOM）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="80" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="n18wtHnCzGB_7l4CKbwP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="n18wtHnCzGB_7l4CKbwP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="OTSU自适应阈值-》生成初始二值图&lt;br&gt;地灰度区域标记为前景（潜在病害）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="105" y="320" width="250" height="60" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
           <mxGeometry x="90" y="200" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n18wtHnCzGB_7l4CKbwP-9" value="开运算（十字形结构元素）-》去孤立噪点&lt;div&gt;闭运算（十字形结构元素）-》连接断裂裂纹/填充微小空隙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="410" width="300" height="60" as="geometry" />
+          <mxGeometry x="70" y="410" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
