@@ -48,7 +48,7 @@
         <mxCell id="n18wtHnCzGB_7l4CKbwP-15" value="孔洞&lt;div&gt;提取轮廓&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="640" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n18wtHnCzGB_7l4CKbwP-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n18wtHnCzGB_7l4CKbwP-18" value="坐标组合(x,y)+层号z -》3D空间点云&lt;div&gt;自适应容差降阶：点数&amp;lt;3降级为线段渲染&lt;/div&gt;&lt;div&gt;边界约束：np_clip限制在重建网格包围盒内&lt;br&gt;输出：红色半透明损伤掩码叠加至pyvista3D模型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="640" width="280" height="130" as="geometry" />
         </mxCell>
       </root>
