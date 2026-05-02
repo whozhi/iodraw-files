@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1280" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1809" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -50,6 +50,9 @@
         </mxCell>
         <mxCell id="n18wtHnCzGB_7l4CKbwP-15" value="孔洞&lt;div&gt;提取轮廓&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n18wtHnCzGB_7l4CKbwP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n18wtHnCzGB_7l4CKbwP-18" target="n18wtHnCzGB_7l4CKbwP-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n18wtHnCzGB_7l4CKbwP-18" value="坐标组合(x,y)+层号z -》3D空间点云&lt;div&gt;自适应容差降阶：点数&amp;lt;3降级为线段渲染&lt;/div&gt;&lt;div&gt;边界约束：np_clip限制在重建网格包围盒内&lt;br&gt;输出：红色半透明损伤掩码叠加至pyvista3D模型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="660" width="280" height="110" as="geometry" />
