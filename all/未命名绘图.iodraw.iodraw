@@ -24,8 +24,8 @@
         <mxCell id="n18wtHnCzGB_7l4CKbwP-1" value="非局部均值去噪-》抑制椒盐噪音&lt;br&gt;CLAHE局部对比值增强-》提升病害/基体灰度差异" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="200" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n18wtHnCzGB_7l4CKbwP-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="410" width="280" height="60" as="geometry" />
+        <mxCell id="n18wtHnCzGB_7l4CKbwP-9" value="开运算（十字形结构元素）-》去孤立噪点&lt;div&gt;闭运算（十字形结构元素）-》连接断裂裂纹/填充微小空隙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="410" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
