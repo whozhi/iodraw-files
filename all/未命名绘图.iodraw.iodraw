@@ -48,8 +48,8 @@
         <mxCell id="n18wtHnCzGB_7l4CKbwP-15" value="孔洞&lt;div&gt;提取轮廓&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="640" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n18wtHnCzGB_7l4CKbwP-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="n18wtHnCzGB_7l4CKbwP-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
