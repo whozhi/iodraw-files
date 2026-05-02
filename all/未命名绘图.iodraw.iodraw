@@ -30,7 +30,7 @@
         <mxCell id="n18wtHnCzGB_7l4CKbwP-9" value="开运算（十字形结构元素）-》去孤立噪点&lt;div&gt;闭运算（十字形结构元素）-》连接断裂裂纹/填充微小空隙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="410" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n18wtHnCzGB_7l4CKbwP-11" value="几何特征分类判定&lt;br&gt;面积&amp;lt;50平方px且长宽比&amp;gt;3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n18wtHnCzGB_7l4CKbwP-11" value="几何特征分类判定&lt;br&gt;面积&amp;lt;50平方px且长宽比&amp;gt;3&lt;br&gt;面积&amp;gt;50平方px且圆度&amp;gt;0.6" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="122.5" y="520" width="237.5" height="120" as="geometry" />
         </mxCell>
       </root>
